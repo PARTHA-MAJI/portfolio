@@ -1,0 +1,25 @@
+# --- Universal Ignores (Applies to everything) ---
+node_modules
+.DS_Store
+.vscode
+.idea
+*.log
+
+# --- Security (CRITICAL) ---
+.env
+.env.local
+.env.production
+.env.development
+# Ignore backend secrets too
+backend/.env
+frontend/.env
+
+# --- Frontend Specifics ---
+frontend/dist
+frontend/build
+frontend/.eslintcache
+
+# --- Backend Specifics ---
+# If your backend generates a coverage report or logs
+backend/coverage
+backend/logs
