@@ -10,8 +10,8 @@ const Projects = () => {
         "A comprehensive trading dashboard featuring real-time stock data.",
       techStack: ["React", "Node.js", "MongoDB", "Passport.js"],
       githubLink: "https://github.com/PARTHA-MAJI",
-      liveLink: "",
-      isComingSoon: true,
+      liveLink: "https://stock-trading-platform-drab.vercel.app",
+      isComingSoon: false,
     },
     {
       _id: "2",
