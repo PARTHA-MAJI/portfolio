@@ -9,7 +9,7 @@ const Projects = () => {
       description:
         "A comprehensive trading dashboard featuring real-time stock data.",
       techStack: ["React", "Node.js", "MongoDB", "Passport.js"],
-      githubLink: "https://github.com/PARTHA-MAJI",
+      githubLink: "https://github.com/PARTHA-MAJI/Stock-Trading-Platform",
       liveLink: "https://stock-trading-platform-drab.vercel.app",
       isComingSoon: false,
     },
@@ -27,7 +27,7 @@ const Projects = () => {
       _id: "3",
       title: "AI Object Detector",
       description: "Real-time computer vision app using YOLO-World.",
-      techStack: ["Python", "YOLOv8", "OpenCV", "Streamlit"],
+      techStack: ["Python", "YOLOv8", "OpenCV"],
       githubLink: "https://github.com/PARTHA-MAJI",
       liveLink: "",
       isComingSoon: true,
