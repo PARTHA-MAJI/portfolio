@@ -19,7 +19,7 @@ const Projects = () => {
       description:
         "A full-stack vacation rental marketplace with geolocation mapping.",
       techStack: ["Express", "EJS", "MapTiler", "Cloudinary"],
-      githubLink: "https://github.com/PARTHA-MAJI",
+      githubLink: "https://github.com/PARTHA-MAJI/wanderlust-project",
       liveLink: "https://wanderlust-project-0vuh.onrender.com/listings",
       isComingSoon: false,
     },
